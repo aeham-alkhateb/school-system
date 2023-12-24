@@ -1,0 +1,23 @@
+table {
+	width: 100%;
+	text-align: center;
+	border:0;
+	
+}
+
+th {
+	width:80px;
+	height: 50px;
+   background-color: #949b2e;
+  color: white;
+  padding: 15px;
+}
+td {
+  border-bottom: 1px solid #577188;
+  height: 50px;
+  color:#577188
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+.massage{
+	width:75%;
+}
